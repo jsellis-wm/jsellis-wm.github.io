@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![My picture](assets/images/joe (1 of 3).jpg)
+![My picture](/assets/images/joe.jpg)
 
 # Resume Site
 In the last few months, I've thought it would be beneficial to start building an [electronic resume](https://joseph-ellis.com){:target="_blank"} in the form of a dedicated website. I'd appreciate any feedback you have in helping to highlight my talents!
